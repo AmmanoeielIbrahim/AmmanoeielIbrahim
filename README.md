@@ -1,6 +1,8 @@
 # Hi there, I'm Ammanoeiel Ibrahim 👋
 
-**.NET Backend Software Engineer | Competitive Programmer**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Software+Engineer;Competitive+Programmer;Problem+Solver&font=Fira+Code&center=true&width=550&height=50&color=512BD4&vCenter=true&size=22" alt="Typing Animation" />
+</div>
 
 I'm a passionate software engineer specializing in building scalable backend systems and robust RESTful APIs. When I'm not writing clean, maintainable code, you can find me solving algorithmic challenges in C++ and competing in collegiate programming contests.
 
@@ -20,7 +22,7 @@ I'm a passionate software engineer specializing in building scalable backend sys
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 - Entity Framework Core, LINQ, Clean Architecture, Onion Architecture
 
-**Tools & API Testing:**
+**Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,7 +33,7 @@ I'm a passionate software engineer specializing in building scalable backend sys
 - Codeforces, AtCoder, LeetCode, Vjudge
 
 ### 📌 Featured Projects
-- **[VOYA](#)** - The backend engine for a ride-sharing and trip-booking platform, engineered with ASP.NET Core Web API, Clean Architecture, and SQL Server. Features secure email OTP verification via MailKit and deployed on MonsterASP.
+- **[VOYA](https://github.com/AmmanoeielIbrahim/YOYA)** - The backend engine for a ride-sharing and trip-booking platform, engineered with ASP.NET Core Web API, Clean Architecture, and SQL Server. Features secure email OTP verification via MailKit and deployed on MonsterASP.
 
 ### 📈 GitHub Stats
 <div align="center">
