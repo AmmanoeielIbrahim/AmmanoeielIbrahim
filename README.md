@@ -6,7 +6,6 @@
 
   **Backend Developer | ASP.NET Core | Competitive Programmer**
 
-  <img src="https://komarev.com/ghpvc/?username=AmmanoeielIbrahim&style=flat-square&color=BD93F9&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -57,31 +56,14 @@ I'm a passionate software engineer who builds scalable backend systems and robus
 
 ---
 
-### 📌 Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/AmmanoeielIbrahim/VOYA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmmanoeielIbrahim&repo=VOYA&theme=dracula&hide_border=true" alt="VOYA Project" />
-  </a>
-
-</div>
-
-**VOYA** - The backend engine for a ride-sharing and trip-booking platform, engineered with ASP.NET Core Web API, Clean Architecture, and SQL Server. Features secure email OTP verification via MailKit and deployed on MonsterASP.
-
----
-
 ### 📈 GitHub Stats & Contributions
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmmanoeielIbrahim&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
+  
   <img height="165" src="https://streak-stats.demolab.com?user=AmmanoeielIbrahim&theme=dracula&hide_border=true" alt="GitHub Streak" />
-
   <br/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanoeielIbrahim&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmmanoeielIbrahim&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <br/>
 
 </div>
 
@@ -92,16 +74,6 @@ I'm a passionate software engineer who builds scalable backend systems and robus
 <div align="center">
 
   <img src="https://trophy.ryglcloud.net/?username=AmmanoeielIbrahim&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
-### 📊 Contribution Activity
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmmanoeielIbrahim&bg_color=282a36&color=bd93f9&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -129,7 +101,7 @@ I'm a passionate software engineer who builds scalable backend systems and robus
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ManuelIbrahim&theme=dracula" alt="Codeforces Stats" />
   </a>
 
-  <br/><br/>
+
 
   <a href="https://leetcode.com/Manual_Ibrahim/">
     <img src="https://leetcard.jacoblin.cool/Manual_Ibrahim?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
