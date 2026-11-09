@@ -50,9 +50,10 @@ I'm a passionate software engineer who builds scalable backend systems and robus
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,git,github,html,css&theme=dark" alt="Tech Stack" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,sqlserver,redis,git,github,postman,html,css&theme=dark" alt="Tech Stack" />          
+          
 </div>
+
 
 ---
 
@@ -97,16 +98,14 @@ I'm a passionate software engineer who builds scalable backend systems and robus
 
   <br/><br/>
 
-  <a href="https://codeforces.com/profile/ManuelIbrahim">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ManuelIbrahim&theme=dracula" alt="Codeforces Stats" />
-  </a>
-
-
-
   <a href="https://leetcode.com/Manual_Ibrahim/">
     <img src="https://leetcard.jacoblin.cool/Manual_Ibrahim?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
   </a>
-
+  <br/><br/>
+   <a href="https://codeforces.com/profile/ManuelIbrahim">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ManuelIbrahim&theme=dracula" alt="Codeforces Stats" />
+  </a>
+ 
 </div>
 
 ---
