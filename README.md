@@ -49,8 +49,9 @@ I'm a passionate software engineer who builds scalable backend systems and robus
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,sqlserver,redis,git,github,postman,html,css&theme=dark" alt="Tech Stack" />          
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode&theme=dark" alt="Tech Stack" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"width="48"height="48"alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=redis,git,github,postman,html,css&theme=dark" alt="Tech Stack" />          
           
 </div>
 
