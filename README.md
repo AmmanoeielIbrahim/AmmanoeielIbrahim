@@ -36,22 +36,10 @@ I'm a passionate software engineer who builds scalable backend systems and robus
 - 🏗️ Strong advocate for **Data Structures & Algorithms**, **SOLID Principles**, and **Design Patterns**.
 
 ### 🛠️ Tech Stack & Tools
-
-**Backend & Architecture:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-- Entity Framework Core, LINQ, Clean Architecture, Onion Architecture
-
-**Tools & Environments:**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,git,github,html,css" />
+</p>
+<br>
 
 
 ### 📌 Featured Projects
@@ -59,11 +47,10 @@ I'm a passionate software engineer who builds scalable backend systems and robus
 
 ### 📈 Stats & Contributions
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mostafa-create/mostafa-create/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mostafa-create&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://leetcard.jacoblin.cool/Manual_Ibrahim?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" /> -->
+  <img src="https://streak-stats.demolab.com?user=AmmanoeielIbrahim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+   <img src="https://trophy.ryglcloud.net/?username=AmmanoeielIbrahim&theme=dracula&no-frame=true&row=1&column=6" />
 </div>
-<br>
+
 
 ## 🏆 Competitive Programming
 
