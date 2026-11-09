@@ -1,86 +1,148 @@
 # Hi there, I'm Ammanoeiel Ibrahim 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Software+Engineer;Competitive+Programmer&font=Righteous&center=true&width=550&height=50&color=512BD4&vCenter=true&size=22" alt="Typing Animation" />
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Software+Engineer;Competitive+Programmer&font=Righteous&center=true&width=550&height=50&color=BD93F9&vCenter=true&size=22" alt="Typing Animation" />
+
+  **Backend Developer | ASP.NET Core | Competitive Programmer**
+
+  <img src="https://komarev.com/ghpvc/?username=AmmanoeielIbrahim&style=flat-square&color=BD93F9&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 I'm a passionate software engineer who builds scalable backend systems and robust RESTful APIs. When I'm not writing clean, maintainable code, I solve algorithmic challenges and compete in collegiate programming contests.
 
-### Connect with me:
-<div>
-  <a href="mailto:ammanoeielibrahim@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ammanoeiel-ibrahim-b709a7324/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/emanual.abrahim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/+201203867609" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/ManualIbrahim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-</div>
+---
 
 ### 🚀 About Me
+
 - 🎓 B.Sc. in Computer Science, **Sohag University** (Class of 2026).
 - 💻 Specializing in **.NET Backend Development** and **RESTful API Design**.
-- 🏆 **Competitive Programmer**: 🧠 Expert @ Codeforces | 🥈 2x ECPC Finalist | 👨‍🏫 Mentor & Problems Setter @ ICPC Sohag
+- 🏆 **Competitive Programmer**: 🧠 Expert @ Codeforces | 🥈 2x ECPC Finalist | 👨‍🏫 Mentor & Problems Setter @ ICPC Sohag.
 - 🏗️ Strong advocate for **Data Structures & Algorithms**, **SOLID Principles**, and **Design Patterns**.
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,git,github,html,css" />
-</p>
-<br>
+---
 
+### 📫 Connect With Me
+
+<div align="center">
+
+  <a href="mailto:ammanoeielibrahim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-BD93F9?style=for-the-badge&logo=gmail&logoColor=282A36" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ammanoeiel-ibrahim-b709a7324/">
+    <img src="https://img.shields.io/badge/LinkedIn-8BE9FD?style=for-the-badge&logo=linkedin&logoColor=282A36" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/emanual.abrahim">
+    <img src="https://img.shields.io/badge/Facebook-6272A4?style=for-the-badge&logo=facebook&logoColor=F8F8F2" alt="Facebook" />
+  </a>
+  <a href="https://wa.me/201203867609">
+    <img src="https://img.shields.io/badge/WhatsApp-50FA7B?style=for-the-badge&logo=whatsapp&logoColor=282A36" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/ManualIbrahim">
+    <img src="https://img.shields.io/badge/Telegram-8BE9FD?style=for-the-badge&logo=telegram&logoColor=282A36" alt="Telegram" />
+  </a>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,git,github,html,css&theme=dark" alt="Tech Stack" />
+
+</div>
+
+---
 
 ### 📌 Featured Projects
-- **[VOYA](#)** - The backend engine for a ride-sharing and trip-booking platform, engineered with ASP.NET Core Web API, Clean Architecture, and SQL Server. Features secure email OTP verification via MailKit and deployed on MonsterASP.
 
-### 📈 Stats & Contributions
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmmanoeielIbrahim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-   <img src="https://trophy.ryglcloud.net/?username=AmmanoeielIbrahim&theme=dracula&no-frame=true&row=1&column=6" />
+
+  <a href="https://github.com/AmmanoeielIbrahim/VOYA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmmanoeielIbrahim&repo=VOYA&theme=dracula&hide_border=true" alt="VOYA Project" />
+  </a>
+
 </div>
 
+**VOYA** - The backend engine for a ride-sharing and trip-booking platform, engineered with ASP.NET Core Web API, Clean Architecture, and SQL Server. Features secure email OTP verification via MailKit and deployed on MonsterASP.
 
-## 🏆 Competitive Programming
+---
 
-<br/>
+### 📈 GitHub Stats & Contributions
 
 <div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmmanoeielIbrahim&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+  <img height="165" src="https://streak-stats.demolab.com?user=AmmanoeielIbrahim&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+  <br/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmanoeielIbrahim&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+  <img src="https://trophy.ryglcloud.net/?username=AmmanoeielIbrahim&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 📊 Contribution Activity
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmmanoeielIbrahim&bg_color=282a36&color=bd93f9&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+### 🏆 Competitive Programming
+
+<div align="center">
+
   <a href="https://codeforces.com/profile/ManuelIbrahim">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-BD93F9?style=for-the-badge&logo=codeforces&logoColor=282A36" alt="Codeforces" />
   </a>
+
   <a href="https://leetcode.com/Manual_Ibrahim/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFB86C?style=for-the-badge&logo=leetcode&logoColor=282A36" alt="LeetCode" />
   </a>
+
   <a href="https://atcoder.jp/users/Manual">
-    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+    <img src="https://img.shields.io/badge/AtCoder-6272A4?style=for-the-badge&logo=atcoder&logoColor=F8F8F2" alt="AtCoder" />
   </a>
+
+  <br/><br/>
+
+  <a href="https://codeforces.com/profile/ManuelIbrahim">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ManuelIbrahim&theme=dracula" alt="Codeforces Stats" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://leetcode.com/Manual_Ibrahim/">
+    <img src="https://leetcard.jacoblin.cool/Manual_Ibrahim?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+  </a>
+
 </div>
 
-<br/>
-<br/>
+---
 
 <div align="center">
-  <a href="https://codeforces.com/profile/ManuelIbrahim">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ManuelIbrahim&theme=tokyonight" alt="Codeforces Stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://leetcode.com/Manual_Ibrahim/">
-    <img src="https://leetcard.jacoblin.cool/Manual_Ibrahim?theme=tokyo-night&font=Fira%20Code" alt="LeetCode Stats" />
-  </a>
-</div>
 
-<br/>
-<br/>
+  **Thanks for visiting my profile! 💜**
+
+  <sub>Let's build something great together.</sub>
+
+</div>
